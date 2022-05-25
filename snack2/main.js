@@ -26,3 +26,4 @@ for(let i = 0 ; i < n && !errore ; i++){
 }
 
 
+alert("I valori generati sono nella console");
